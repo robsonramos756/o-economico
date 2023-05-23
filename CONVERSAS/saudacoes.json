@@ -1,0 +1,22 @@
+{
+    "perguntas_respostas": 
+       [
+        {
+            "pergunta": "olá",
+            "resposta": "Olá, sou o econômico. Qual a questão sobre a economia que você quer saber?"    
+        },
+        {
+            "pergunta": "bom dia",
+            "resposta": "Bom dia, sou o econômico. Qual a questão sobre a economia que você quer saber?"
+        },
+        {
+            "pergunta": "boa tarde",
+            "resposta": "Boa tarde, sou o econômico. Qual a questão sobre a economia que você quer saber?"
+        },
+        {
+            "pergunta": "boa noite",
+            "resposta": "Boa noite, sou o econômico. Qual a questão sobre a economia que você quer saber?"
+        }
+      ]
+  }
+  

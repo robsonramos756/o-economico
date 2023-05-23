@@ -1,0 +1,24 @@
+{
+  "perguntas_respostas": [
+    {
+      "pergunta": "Qual a maior economia do planeta?",
+      "resposta": "A maior economia do planeta é os Estados Unidos."
+    },
+    {
+      "pergunta": "Qual o maior bloco econômico do planeta?",
+      "resposta": "O maior bloco econômico do planeta é a União Europeia."
+    },
+    {
+      "pergunta": "Qual o país que registrou a maior alta do PIB em 2019?",
+      "resposta": "O país que registrou a maior alta do PIB em 2019 foi a China."
+    },
+    {
+      "pergunta": "País que registrou a maior queda no PIB em 2019?",
+      "resposta": "A maior queda no PIB em 2019 foi a Venezuela."
+    },
+    {
+      "pergunta": "Qual o PIB global em 2019?",
+      "resposta": "O PIB global em 2019 foi de 87,75 trilhões de dólares."
+    }
+  ]
+}
